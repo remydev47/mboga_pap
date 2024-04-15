@@ -9,7 +9,7 @@ class CartPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: kWhite,
+      backgroundColor: kGreen,
       appBar: PreferredSize(
         preferredSize: Size.fromHeight(130.h),
         child: Container(
